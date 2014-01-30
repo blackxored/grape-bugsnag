@@ -18,7 +18,7 @@ your Rails/Sinatra/Rack app.
 
 ## TODO
 
-Allow more fine-grained control of which exceptions get notified.
+* Allow more fine-grained control of which exceptions get notified.
 
 ## Contributing
 
