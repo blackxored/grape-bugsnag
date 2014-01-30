@@ -11,6 +11,10 @@ Add this line to your application's Gemfile:
 
     gem 'grape-bugsnag'
 
+## Requirements
+
+ * Ruby >= 2.0
+
 ## Usage
 
 Just works! ;) Make sure to have your Bugsnag credentials specified elsewhere in
