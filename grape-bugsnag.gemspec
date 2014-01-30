@@ -26,4 +26,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rspec", "~> 2.14.1"
   spec.add_development_dependency "rack-test", '~> 0.6.2'
   spec.add_development_dependency "rr", '~> 1.1.2'
+  spec.add_development_dependency "coveralls"
 end

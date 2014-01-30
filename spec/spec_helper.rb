@@ -1,3 +1,5 @@
+require 'coveralls'
+Coveralls.wear!
 require 'rr'
 require 'rack/test'
 require 'grape/bugsnag'
