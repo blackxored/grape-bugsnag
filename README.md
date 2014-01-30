@@ -2,8 +2,8 @@
 
 [![Gem Version](https://badge.fury.io/rb/grape-bugsnag.png)](http://badge.fury.io/rb/grape-bugsnag) [![Build Status](https://travis-ci.org/blackxored/grape-bugsnag.png)](https://travis-ci.org/blackxored/grape-bugsnag) [![Coverage Status](https://coveralls.io/repos/blackxored/grape-bugsnag/badge.png?branch=master)](https://coveralls.io/r/blackxored/grape-bugsnag) [![Dependency Status](https://gemnasium.com/blackxored/grape-bugsnag.png)](https://gemnasium.com/blackxored/grape-bugsnag) [![Code Climate](https://codeclimate.com/github/blackxored/grape-bugsnag.png)](https://codeclimate.com/github/blackxored/grape-bugsnag)
 
-This Grape extension enhances default error middleware to notify of exceptions through
-Bugsnag before responding.
+This [Grape](https://github.com/intridea/grape) extension enhances default error middleware to notify of exceptions through
+[Bugsnag](https://bugsnag.com) before responding.
 
 ## Installation
 
